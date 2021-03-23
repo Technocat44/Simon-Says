@@ -41,8 +41,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![http://g.recordit.co/reV4HaCemW.gif]
-[http://g.recordit.co/sShhHnHGvL.gif]
+
+![http://g.recordit.co/reV4HaCemW.gif] _ Showing the features: Game interface, "Start button toggles", Game buttons light up, Computer plays back sequence of clues, play progesses, user wins game, buttons uses a different sound frequency, playback speeds up.
+[http://g.recordit.co/sShhHnHGvL.gif] _ Showing features: user loses game, computer chooses different pattern. 
 
 
 ## Reflection Questions
